@@ -23,4 +23,5 @@ The "Contact" section has buttons which provide two options for contacting me. T
 
 ### 3. Use media queries to create a responsive layout for different screen sizes
 I used media queries to adjust various elements of the webpage when the screen became smaller. For example, when a user has a screen that is less than 575 pixels (most smart phones), the font sizes and element positions change to facilitate interaction with the webpage.
+</br>
 ![Alt text](/assets/images/mobile.png)
